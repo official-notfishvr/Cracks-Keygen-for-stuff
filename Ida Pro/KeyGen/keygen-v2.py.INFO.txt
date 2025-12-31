@@ -1,0 +1,1 @@
+keygen for ida pro put in ida pro folder path [C:\Program Files\IDA Professional 9.2] then run python keygen-v2.py --oneshot
